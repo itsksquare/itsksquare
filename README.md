@@ -8,3 +8,5 @@
 * 🌱 I’m currently learning everything
 * 🥅 Goals this year: Learn better programming skills and contribute more
 * ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside
+
+![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsksquare&count_private=true)
