@@ -17,6 +17,11 @@ Hey, I'm Kartikey Khanna, a passionate CSE student trying to learn new things da
 - 🥅 Goals this year: Learn better programming skills and contribute more
 - ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside
 
-![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsksquare&count_private=true&show_icons=true&theme=dark&title_color=0055ff&bg_color=000000)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsksquare&count_private=true&show_icons=true&theme=dark&title_color=0055ff&bg_color=000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksquare&layout=compact&theme=dark&title_color=0055ff&bg_color=000000">
+<p/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsksquare&layout=compact&theme=dark&title_color=0055ff&bg_color=000000)
+<p align = "center">
+    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=itsksquare&line_height=40&theme=dark&background=000000&ring=0055ff&fire=ff0000&currStreakLabel=0055ff">
+</p>
