@@ -19,7 +19,7 @@ Hey, I'm Kartikey Khanna, a passionate CSE student trying to learn new things da
 - ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside 😜
 
 <br>
-<h3>My Stats</h3>
+<h2>My Stats</h2>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=itsksquare&count_private=true&show_icons=true&theme=dark&title_color=0055ff&bg_color=000000">
