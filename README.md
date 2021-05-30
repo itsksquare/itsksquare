@@ -20,6 +20,9 @@ Hey, I'm Kartikey Khanna, a passionate CSE student trying to learn new things da
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=itsksquare&count_private=true&show_icons=true&theme=dark&title_color=0055ff&bg_color=000000">
+<p/>
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksquare&layout=compact&theme=dark&title_color=0055ff&bg_color=000000">
 <p/>
 
