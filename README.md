@@ -34,5 +34,5 @@ Hey, I'm Kartikey Khanna, a passionate CSE student trying to learn new things da
 </p>
 
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=itsksquare&theme=dark&title_color=0055ff">
+    <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=itsksquare&theme=dark&bg_color=000000&title_color=0055ff">
 </p>
