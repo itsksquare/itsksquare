@@ -32,7 +32,3 @@ Hey, I'm Kartikey Khanna, a passionate CSE student trying to learn new things da
 <p align = "center">
     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=itsksquare&line_height=40&theme=dark&background=000000&ring=0055ff&fire=ff0000&currStreakLabel=0055ff">
 </p>
-
-<p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=itsksquare&theme=dark&bg_color=000000&title_color=0055ff">
-</p>
