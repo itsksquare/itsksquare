@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
 
-Hey, I'm Kartikey Khanna, a passionate CSE student trying to learn new things daily!!
+Hey, I'm Kartikey Khanna, a passionate CSE student trying to learn new things daily!
 
 <h5>Connect with me:</h5>
 <a href="https://discord.gg/RUR2fyE"><img align="left" alt="Kartikey's Discord" width="25px" src="https://simpleicons.org/icons/discord.svg"/></a>
