@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
 
-<h3 align="center">Hey, I'm Kartikey Khanna, a passionate CSE student trying to learn new things daily!</h3>
+<h3 align="center">A passionate CSE student trying to learn new things daily!</h3>
 
 <h5>Connect with me:</h5>
 <a href="https://discord.gg/RUR2fyE"><img align="left" alt="Kartikey's Discord" width="25px" src="https://simpleicons.org/icons/discord.svg"/></a>
 
-<a href="https://www.instagram.com/ig_ksquare/"><img align="left" alt="Kartikey's Instagram" width="25px" src="https://simpleicons.org/icons/instagram.svg"/></a>
+<a href="https://www.instagram.com/itsksquare/"><img align="left" alt="Kartikey's Instagram" width="25px" src="https://simpleicons.org/icons/instagram.svg"/></a>
 
 <a href="https://twitter.com/itsksquare19"><img align="left" alt="Kartikey's Twitter" width="25px" src="https://simpleicons.org/icons/twitter.svg"/></a>
 
 <a href="https://www.linkedin.com/in/kartikeykhanna/"><img align="left" alt="Kartikey's LinkedIn" width="25px" src="https://simpleicons.org/icons/linkedin.svg"/></a>
 
 <br>
+
+connect@kartikeykhanna.com
+
 <br>
 
 - 🔭 I'm currently working on learning new things
