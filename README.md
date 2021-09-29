@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/kartikeykhanna/"><img align="left" alt="Kartikey's LinkedIn" width="25px" src="https://simpleicons.org/icons/linkedin.svg"/></a>
 
 <br>
+<br>
 
 connect@kartikeykhanna.com
 
