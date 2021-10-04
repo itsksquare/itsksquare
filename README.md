@@ -9,7 +9,7 @@ Currently a 2nd year Computer Science Engineering student at Vellore Institute o
 - ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside 😜
 
 <br>
-<h3 align="center">Connect with me!</h3>
+<h2 align="center">Connect with me!</h2>
 
 <p align="center">
     <a href="https://discord.gg/RUR2fyE"><img alt="Kartikey's Discord" width="30px" src="https://simpleicons.org/icons/discord.svg"/></a>
@@ -23,7 +23,7 @@ Currently a 2nd year Computer Science Engineering student at Vellore Institute o
 <p align="center">connect@kartikeykhanna.com</p>
 
 <br>
-<h3 align="center">My Stats!</h3>
+<h2 align="center">My Stats!</h2>
 
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsksquare&count_private=true&show_icons=true&theme=dark&title_color=0400ff&bg_color=000000">
