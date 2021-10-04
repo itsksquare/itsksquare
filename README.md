@@ -8,6 +8,7 @@ Currently a 2nd year Computer Science Engineering student at Vellore Institute o
 - 🥅 Goals this year: Learn better programming skills and contribute more
 - ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside 😜
 
+<br>
 <h3 align="center">Connect with me!</h3>
 
 <p align="center">
@@ -21,10 +22,11 @@ Currently a 2nd year Computer Science Engineering student at Vellore Institute o
 
 <p align="center">connect@kartikeykhanna.com</p>
 
+<br>
 <h3 align="center">My Stats!</h3>
 
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsksquare&count_private=true&show_icons=true&theme=dark&title_color=0400ff&bg_color=000000">
     <img width="48%" src = "https://github-readme-streak-stats.herokuapp.com/?user=itsksquare&line_height=40&theme=dark&background=000000&ring=0400ff&fire=ff0000&currStreakLabel=0400ff">
-    <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksquare&langs_count=8&theme=dark&title_color=0400ff&bg_color=000000">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksquare&langs_count=8&theme=dark&title_color=0400ff&bg_color=000000">
 <p/>
