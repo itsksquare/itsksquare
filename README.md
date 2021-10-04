@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
 
-<img width="40%" align="right" src="./assets/ast-img.png" />
+<img width="25%" align="right" src="./assets/ast-img.png" />
 
 Currently a 2nd year Computer Science Engineering student at Vellore Institute of Technology, Bhopal. I am someone that loves to learn something new everyday, currently learning Java and improving my DS Algo skills. I also love helping people out in any way I can. I've been calling myself a Web Developer but am also a Machine Learning and Data Science enthusiast.
 
