@@ -16,8 +16,7 @@ Currently a 2nd year Computer Science Engineering student at Vellore Institute o
     <a href="https://www.instagram.com/itsksquare/"><img alt="Kartikey's Instagram" width="30px" src="https://simpleicons.org/icons/instagram.svg"/></a>
     <a href="https://twitter.com/itsksquare19"><img alt="Kartikey's Twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg"/></a>
     <a href="https://www.linkedin.com/in/kartikeykhanna/"><img alt="Kartikey's LinkedIn" width="30px" src="https://simpleicons.org/icons/linkedin.svg"/></a>
-    <a href="skype:live:kartikey_khanna_1?chat"><img alt="Kartikey's LinkedIn" width="30px" src="https://simpleicons.org/icons/skype.svg"/></a>
-    <a href="mailto:connect@kartikeykhanna.com"><img alt="Kartikey's LinkedIn" width="30px" src="https://simpleicons.org/icons/gmail.svg"/></a>
+    <a href="mailto:connect@kartikeykhanna.com"><img alt="Kartikey's Email" width="30px" src="https://simpleicons.org/icons/gmail.svg"/></a>
 <p>
 
 <p align="center">connect@kartikeykhanna.com</p>
