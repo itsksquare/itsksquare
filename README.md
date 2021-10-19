@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartikey Khanna aka Ksquare</h1>
+<h1 align="center">Hi 👋, I'm Kartikey</h1>
 
 <img width="20%" align="right" src="./assets/ast-img.png" />
 
