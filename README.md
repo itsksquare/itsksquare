@@ -12,7 +12,7 @@ Currently a 2nd year Computer Science Engineering student at Vellore Institute o
 <h2 align="center">Connect with me!</h2>
 
 <p align="center">
-    <a href="https://discord.gg/AYGFzB7MGX"><img alt="Kartikey's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
+    <a href="https://discord.gg/qKF9gzJKcr"><img alt="Kartikey's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
     <a href="https://www.instagram.com/itsksquare/"><img alt="Kartikey's Instagram" src="https://img.shields.io/badge/Instagram-833AB4?style=flat-square&logo=instagram&logoColor=white"/></a>
     <a href="https://twitter.com/itsksquare19"><img alt="Kartikey's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/kartikeykhanna/"><img alt="Kartikey's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
