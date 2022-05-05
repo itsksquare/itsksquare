@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="./assets/wave.gif" width="30px">, I'm Kartikey</h1>
 
+<p align="right">
+    <a href="https://www.github.com/itsksquare" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/itsksquare?logo=github&style=for-the-badge&color=0400ff&labelColor=1c1917" /></a>
+</p>
+
 <img width="20%" align="right" src="./assets/ast-img.png" />
 
 Currently a 2nd year Computer Science Engineering student at Vellore Institute of Technology, Bhopal. I am someone that loves to learn something new everyday, currently learning Java and improving my DS Algo skills. I also love helping people out in any way I can. I've been calling myself a Web Developer but am also a Machine Learning and Data Science enthusiast.
@@ -16,6 +20,8 @@ Currently a 2nd year Computer Science Engineering student at Vellore Institute o
     <a href="https://www.instagram.com/itsksquare/"><img alt="Kartikey's Instagram" src="https://img.shields.io/badge/Instagram-833AB4?style=flat-square&logo=instagram&logoColor=white"/></a>
     <a href="https://twitter.com/itsksquare19"><img alt="Kartikey's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/kartikeykhanna/"><img alt="Kartikey's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://ksquare.hashnode.dev"><img alt="Kartikey's Hashnode" src="https://img.shields.io/badge/Hashnode-0052e9?style=flat-square&logo=Hashnode&logoColor=white"/></a>
+    <a href="https://ksquare.hashnode.dev"><img alt="Kartikey's Hashnode" src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
     <a href="mailto:kartikey@kartikeykhanna.com"><img alt="Kartikey's Email" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p align="center">kartikey@kartikeykhanna.com</p>
