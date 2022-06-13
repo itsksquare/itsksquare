@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="./assets/wave.gif" width="30px">, I'm Kartikey</h1>
+<h1 align="center">Hi <img src="./assets/wave.gif" width="20px">, I'm Kartikey</h1>
 
 <p align="right">
     <a href="https://www.github.com/itsksquare" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/itsksquare?logo=github&style=for-the-badge&color=0400ff&labelColor=1c1917" /></a>
