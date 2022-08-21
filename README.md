@@ -59,6 +59,6 @@ Currently a 2nd year Computer Science Engineering student at Vellore Institute o
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsksquare&count_private=true&show_icons=true&theme=dark&title_color=0400ff&bg_color=000000">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksquare&langs_count=8&theme=dark&title_color=0400ff&bg_color=000000&layout=compact">
-    <img align="center" width="70%" src = "https://github-readme-streak-stats.herokuapp.com/?user=itsksquare&line_height=40&theme=dark&background=000000&ring=0400ff&fire=ff0000&currStreakLabel=0400ff">
-    <img align="center" width="70%" src = "https://activity-graph.herokuapp.com/graph?username=itsksquare&area=true&theme=xcode&bg_color=000000&point=0400ff&area_color=0400ff">
+    <img align="center" width="48%" src = "https://github-readme-streak-stats.herokuapp.com/?user=itsksquare&line_height=40&theme=dark&background=000000&ring=0400ff&fire=ff0000&currStreakLabel=0400ff">
+    <img align="center" width="48%" src = "https://activity-graph.herokuapp.com/graph?username=itsksquare&area=true&theme=xcode&bg_color=000000&point=0400ff&area_color=0400ff">
 </p>
