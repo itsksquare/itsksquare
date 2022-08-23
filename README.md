@@ -45,6 +45,7 @@ Currently a 2nd year Computer Science Engineering student at Vellore Institute o
 <p align="center">
     <img alt="Git" src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&style=flat-square&logoColor=white"/>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-3380F2.svg?logo=docker&style=flat-square&logoColor=white"/>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"/>
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff"/>
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white"/>
