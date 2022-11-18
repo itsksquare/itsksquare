@@ -24,6 +24,7 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
     <a href="https://ksquare.hashnode.dev"><img alt="Kartikey's Hashnode" src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
     <a href="mailto:kartikey@kartikeykhanna.com"><img alt="Kartikey's Email" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+<p align="center"><a href="https://kartikeykhanna.com">https://kartikeykhanna.com</a></p>
 <p align="center">kartikey@kartikeykhanna.com</p>
 
 <h2 align="center">Languages and Tools</h2>
@@ -41,14 +42,15 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
     <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js"/>
     <img alt="React" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
 </p>
 <p align="center">
     <img alt="Git" src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&style=flat-square&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-3380F2.svg?logo=docker&style=flat-square&logoColor=white"/>
+    <img alt="Netlify" src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=ffffff"/>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"/>
-    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff"/>
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white"/>
+    
 </p>
 
 <!-- <br>
