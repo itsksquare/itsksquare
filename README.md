@@ -35,12 +35,12 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-E34A86?style=flat-square&logo=java"/>
     <img alt="Python" src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"/>
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus"/>
 </p>
 <p align="center">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
     <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js"/>
+    <img alt="Express" src="https://img.shields.io/badge/Expressjs-black?style=flat-square&logo=Express"/>
     <img alt="React" src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
 </p>
@@ -49,6 +49,9 @@ Currently a pre-final year Computer Science Engineering student at Vellore Insti
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&style=flat-square&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-3380F2.svg?logo=docker&style=flat-square&logoColor=white"/>
     <img alt="Netlify" src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=ffffff"/>
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoft-azure&logoColor=008AD7"/>
+    <img alt="Google Cloud" src="https://img.shields.io/badge/GCP-black?style=flat-square&logo=google-cloud&logoColor=ffffff"/>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"/>
     
 </p>
