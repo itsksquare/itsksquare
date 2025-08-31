@@ -6,11 +6,7 @@
 
 <img width="20%" align="right" src="./assets/ast-img.png" />
 
-Final year Computer Science Engineering student at Vellore Institute of Technology, Bhopal. I am someone that loves to learn something new everyday, currently learning Java and improving my DS Algo skills. I also love helping people out in any way I can. I've been calling myself a Web Developer but am also a Machine Learning and Data Science enthusiast.
-
-- 🔭 I'm currently working on learning new things
-- 🥅 Goals this year: Learn better programming skills and contribute more
-- ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside 😜
+A Software Engineer passionate about building scalable systems, resilient microservices, and AI-driven applications. My experience spans cloud-native development, real-time data processing, and machine learning integrations, with projects ranging from financial microservices at scale to intelligent forecasting and blockchain solutions. I thrive at the intersection of disciplines, defying silos, and turning complex workflows into elegant, end-to-end products.
 
 <img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=itsksquare&data=followers,repositories,stars,commits&theme=darkmode&title_color=0400ff">
 
